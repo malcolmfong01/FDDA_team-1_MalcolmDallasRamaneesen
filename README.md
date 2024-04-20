@@ -37,3 +37,4 @@ These insights have important implications for airlines, suggesting that while s
 https://www.kaggle.com/code/sayedgamal99/airline-passenger-satisfaction-xgboost#6--Data-Preparation-for-ML
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
