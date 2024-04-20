@@ -30,7 +30,7 @@ These insights have important implications for airlines, suggesting that while s
 ## What Did We Learn from This Project?
 - **ML Techniques**: Utilized various machine learning models including Linear Regression, Random Forest and Gradient Boosting.
 - **Data Handling**: Mastered complex data cleaning and preprocessing tasks to prepare the dataset for analysis.
-- **Collaboration**: Developed project management and collaboration skills using GitHub.
+- **Collaboration**: Developed project management and collaborative skills using GitHub.
 - **Model Insights**: Recognized Gradient Boosting as the most effective model in terms of predictive accuracy.
 
 ## References
