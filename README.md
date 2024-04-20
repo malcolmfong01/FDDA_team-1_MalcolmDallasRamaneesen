@@ -34,7 +34,9 @@ These insights have important implications for airlines, suggesting that while s
 - **Model Insights**: Recognized Gradient Boosting as the most effective model in terms of predictive accuracy.
 
 ## References
-https://www.kaggle.com/code/sayedgamal99/airline-passenger-satisfaction-xgboost#6--Data-Preparation-for-ML
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+- https://www.kaggle.com/code/sayedgamal99/airline-passenger-satisfaction-xgboost#6--Data-Preparation-for-ML
+- https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/
+- https://towardsdatascience.com/random-forest-regression-5f605132d19d
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
